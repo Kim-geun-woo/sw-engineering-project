@@ -95,7 +95,7 @@
 
 유스케이스 시나리오는 PDF 문서로 정리되어 있으며, 아래 링크를 통해 확인할 수 있습니다.
 
-📄 [유스케이스 시나리오 보기 (PDF)]((https://github.com/Kim-geun-woo/sw-engineering-project/blob/main/docs/usecase_scenarios.pdf)))
+📄 [유스케이스 시나리오 보기 (PDF)]((https://github.com/Kim-geun-woo/sw-engineering-project/blob/main/docs/usecase_scenarios.pdf))
 
 ---
 ## 🛠️ 사용 툴
