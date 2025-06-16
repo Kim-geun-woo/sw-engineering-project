@@ -16,6 +16,14 @@ UI 설계, 유스케이스/시퀀스/클래스 다이어그램, DFD, 아키텍�
 
 ---
 
+## 🛠️ 사용 툴
+
+- UML 모델링: Enterprise Architect, draw.io
+- 문서 작성: Excel, Word
+- 협업 도구: Slack, Google Drive
+
+---
+
 ## 👤 담당 역할 정리
 
 | 팀원 | 역할 |
@@ -106,9 +114,3 @@ UI 설계, 유스케이스/시퀀스/클래스 다이어그램, DFD, 아키텍�
 📄 [유스케이스 시나리오 보기 (PDF)](https://github.com/Kim-geun-woo/sw-engineering-project/blob/main/docs/usecase_scenarios.pdf)
 
 ---
-
-## 🛠️ 사용 툴
-
-- UML 모델링: **Enterprise Architect**
-- 문서 작성: Excel, Word
-- 협업 도구: Notion, Google Drive
